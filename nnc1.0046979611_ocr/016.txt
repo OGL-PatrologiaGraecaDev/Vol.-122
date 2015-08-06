@@ -1,0 +1,104 @@
+λαμπίου καὶ ἑτερους σὺν αὐτῷ Φιλόοεος ὁ ἐπαρ- Α et
+χος (48) ἐν τῇ ἱππικῇ σφενδῦνῃ ἀπέτεμε. Νικήτας
+δὲὸ ἀσηκρῆτις καὶ Κωνσταντῑνος ὁ Λὶψ, καίπερ
+ἀναζητηθέντες πολλὰ, οὐχ εὑρέθησαν. Τὸν δὲ πα-
+τρίκιον Λὶγξδην τὸν ἐπ’ ἀνδρίᾳ περιϐόητον, καί τινας
+σὺν αὐτῷ στρατηγοὺς οὐκ ἀσήμους, ἀπὸ τῆς ὲν
+Χρυσοπόλει δαμάλεως (49) καὶ μέχρι τοῦ τόπου τοῦ
+λεγομένου Λευκακτίου ἀνεσκολόπισαν. Πολλοὶ δὲ καὶ
+ἄλλοι ἀπωλώλεισαν τῶν συγκλητικῶν παρὰ τῶν λε-
+γομένων ἐπιτρόπων ἀνηλεῶς τε καὶ ἀναιτίως,
+[Ρ. 61ηεί μή τινες παρῤησιασάμενοι τῶν δικα-
+στῶν τῆς ἀδίκου ὁρμῆς ἀνεχαίτισαν, φάμενοι, ὡς
+παιδὸς ὄντος τοῦ βασιλέως καὶ μὴ νοοῦντος τὰ πε-
+πραγμένα πῶς ἄνευ τῆς αὐτοῦ κελεύσεως τολμᾶτε
+τὰ τοιαῦτα διαπράττεσθαις Ol δὲ ἐπίτροποι καὶ
+τὴν τοῦ Δοῠκα ἀποκείραντες γυναῖκα εἰς τὸν ὲν τῇ Παφλαγονίᾳ οἷκον αὐτῆς ἐξαπέστειλαν.
+δὲ καὶ Στέφανον τὸν ταῦτης υἱόν.
+’Δλλὰ τούτων κατά τὴν πόλιν πραττομένων, Συο Β Du
+μεὼν ὁ Βουλγαρίας ἄρχων μετὰ βαρείας δυνάμεως
+εἰσϐολὴν κατὰ Ῥωμαίων ἐποιήσατο, καὶ τὴν βασις
+λίδα φθάσας χάρακα περιέϐαλεν ἀπό τε Βλαχερνῶν
+καὶ μέχρι τῆς λεγομένης Χρυσῆς πόρτης, καὶ με-
+τέωρος ἦν ταῖς ἐλπίσι ῥᾳδίως ταύτην ἑλεῖν. Κατα-
+μαθὼν δὲ τὴν ὀχυρότητα τῶν τειχῶν καὶ τὸ πλῆθος
+τῶν τειχοφυλακούντων καὶ τὴν τῶν πετροϐόλων καὶ
+τοξοδὸλων ὀργάνων δαψίλειαν, ἀφέμενος τῶν ἐλπί-
+δωνὲν τῷ Ἑϐδόμῳ ὑπέστρεψεν, εἰρηνικὰς σπονδὰς
+ἐξαιτούμενος. Τῶν δ’ ἐπιτρόπων ἀσμενέστατα δεξα-
+μένων τὸν λόγον, ἀποστέλλει ὁ Συμεὼν τὸν ἑαυτοῦ
+μάγιστρον Θεόδωρον ὁμιλῆσαι περὶ εἰρήνης ὀὗ
+παραγενομένου καὶ λόγων κινηθέντων πολλῶν,
+ὁ πατριάρχης ἃμα τοῖς λοιποῖς ἐπιτρόποις ἀναλα-
+δόντες τὸν βασιλέα ὲν τῷ παλατίῳ ἦλθον τῶν Βλα· C int
+χερνῶν,καὶ ὁμήρους δόντες ἀξιολόγους εἰσήγαγον pa
+τὸν Συμεὼν ἐν τῷ παλατὶῳ, καὶ συνειστιάθη τῷ €01
+βασιλεῖ, τοῦ Συμεὼν ὑποκλίναντος τῷ πατριάρχῃ τὴν uis
+κεφαλὴν καὶ εὐχὴν δεξαμένου παράίιτοῦ, ἐπιθέντος, pa
+ὦς φασι, τῇ τοῦ Βαρϐάρου κεφαλῇ ἀντὶ στεφάνου τὸ lib
+ἱδιον ἐπιρριπτάριον (50). Μετὰ δὲ τὴν ἑστίασιν, ἀσυμϐάτων γενομένων περὶ τῆς είρήνης (5i), δώ-
+ροις ὃ τε Συμεὼν καὶ οἱ τούτου παῖδες φιλοφρονηθέντες είς τήν ἰδίαν ἀπηλλάγησαν natlem;
+μὲν ἐπράττετο τῇδε.
+Τοῦ δὲ βασιλέως Κωνσταντίνου διὰ παντὸς ὀδυ-
+ρομένου καὶ τὴν ἑαυτοῦ ἀνακαλουμένου μητέρα
+(ήδη γὰρ αὐτὴν κατήγαγε τοῦ παλατίου Ἀλέξανδρος),
+ἀναϐιϐάζουσι καὶ ἄκοντες πάλιν αὐτήν. Ἀνελθοῦσα
+οὖν καὶ ἐγκρατὴς γενομένη τῆς βασιλείας προσλαμ-
+ϐἀνεται τὸν παρακοιμώμενον Κωνσταντῖνον, καὶ
+Ἀναστάσιον, καὶ Κωνσταντίνον, τοὺς ἀδελφοὺς τοὺς
+τὴν ἐπωνυμίαν Γογγυλίους. Συμὸουλεύσαντος δὲ καὶ
+ita ‘di‘c-tus κατά *τὴν ἀντιπέραν ἐν τῷ
+
+13 IIISTORIARUM COM PENDIUM. ll
+ρ- Α et Constantinus Africus diu ac mullum quaesiti
+invenlt non sunt. Patricium (Egidam, nobilitata:
+fortitudinis virutn, et alios cum eo duces haud ob-
+scuros, a Damali (buculam vox notat) Chrysopolitana
+usque ad locum cui Leucactio (quod album littus
+diceres) nomen est, palis suiﬁxerunt. Quin et alios
+multos senatorii ordinis viros tutores isti innocuos
+crudeliter erant interempturi, nisi quidam ex judi—
+cibus libertate dicendi sumpta eos ab injuste conatu
+retraxissent, quaerentes quomodo iniussu impera-
+toris, 282 qui puer adhuc quid gereretur non in-
+telligeret, tanta auderent facere. li tutores uxorem
+quoque Duae raserunt et domum suam, quam in
+Paphlagonia habebatrdimiserunt, ﬁliumque ejus
+Stephanum castraverunt.
+:u- Β Dum hace in urbe geruntur, interim Simeo Bul-
+garorum princeps gravi cum exercitu in Romanorum
+ditionem invadit, et ad Cpolin venit, atque a Bla-
+chernis usque ad Auream portam castra ponit,
+magnamque spem conceperat urbis potiundae : sed
+ut certior factus est de murorum ﬁrmitate. multi-
+tudine propugnatorum saxa jactantium, machina-
+rum et balistarum abundantia, repudiata ea spe ad
+llebdomum recedit paciﬁcationemque poscit. Id luit
+multo gratissimum tutoribus: missusque est a Si-
+meone magister ipsius Theodorus, et de pace ha-
+bitum colloquium. Multis ultro citroque commu-
+tatis verbis, patriarcha cum reliquis tutoribus de-
+ducunt imperatorem in Blacheruense palatium:
+datisque idoneis obsidibus eodem ad convivium
+α· C imperatoris Simeonem recipiunt. Ubi quidem caput
+νον patriarchae Bulgarus princeps submisit, et ab eo
+τῷ comprecationem obtinuit, capiti, ut fertur, Simeo-
+τὴν nis imponente suum epirrhiptarium. Post convivium
+ος, pacis conditionibus compositis, Simeonejusque
+εφαλῇ ἀντὶ στεφάνου τὸ liberi donati domum abierunt.
+283 Porro Zoen imperatoris matrem, quam
+dudum aula eduxerat Alexander, lilio eam identi—
+dem deplorante ac requirente, tutores vel inviti itt
+palatium revocant. Reversa haec et rerum guberna-
+tionem nacta adsciscit Constantinum cubicularium
+intimum, Anastasium et Constantinum Gongylios,
+cognominatos germanos fratres, ac Joannem Ela-
+dam. ﬂorum consilio aula ejiciuntur Alexandri
+XYLANDRI ET GOARI NOTAE.
+(48) Vindicandis criminibus vacavit ultimis tem-
+poribus. upnde et in praetorio reorum ergastulo do-
+lmum e6 officio deputatam habuit. Auctor plerisqueoms. om.
+ξίιονι tatam-Evn»; λιθίνην δάμαλιν, trans Bosporum
+ἔθει-πίω, Chrysopoli. Ἀιιοιὸτ pablo infra viiii-7:UAB.
+Griecam__vocem interpretando retinui, qua:
+cucullatn aut aBiud quod capiti injiceretur tegmen
